@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_main">
+
+    <fragment
+        android:id="@+id/nav_main"
+        android:name="com.vlad.ticketoffice.MainActivity.ui.MainFragment.MainFragment"
+        tools:layout="@layout/fragment_main"
+        android:label="Рейси" />
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.vlad.ticketoffice.MainActivity.ui.LoginFragment.LoginFragment"
+        tools:layout="@layout/fragment_login"
+        android:label="Авторизація" />
+
+    <fragment
+        android:id="@+id/nav_private_office"
+        android:name="com.vlad.ticketoffice.MainActivity.ui.PrivateOfficeFragment.FragmentPrivateOffice"
+        tools:layout="@layout/fragment_private_office"
+        android:label="Особистий кабінет" />
+
+</navigation>

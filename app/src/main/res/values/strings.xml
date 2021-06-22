@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TicketOffice</string>
+
+    <string name="sign_up">Зареєструватись</string>
+    <string name="login">Увійти</string>
+    <string name="e_mail_hint">e-mail</string>
+    <string name="password_hint">Пароль(МІНІМУМ 6 СИМВОЛІВ!)</string>
+    <string name="name_hint">Введіть імя та прізвище</string>
+    <string name="toggling_btn_signUp">Увійти в існуючий аккаунт</string>
+    <string name="toggling_btn_login">Cтворити новий аккаунт</string>
+    <string name="admin">Адміністратор</string>
+    <string name="not_auth_message">Ви не авторизовані</string>
+    <string name="nav_login">Увійти</string>
+    <string name="sign_out">Розлогінитись</string>
+    <string name="nav_main">Головна</string>
+    <string name="nav_users">Користувачі</string>
+    <string name="nav_tickets">Білети</string>
+    <string name="races_loading_message">Рейси завантажуються…</string>
+    <string name="route_add">Маршрут</string>
+    <string name="departure_destination_hint">Чернівці-Київ</string>
+    <string name="race_name_add">Рейс</string>
+    <string name="race_name_hint">M9 281</string>
+    <string name="race_departure_date_add">Дата відправлення</string>
+    <string name="race_departure_date_hint">02.09.2020</string>
+    <string name="departure_time_add">Час відправлення</string>
+    <string name="departure_time_hint">07:00</string>
+    <string name="arrival_time_add">Час прибуття</string>
+    <string name="arrival_time_hint">08:15</string>
+    <string name="price_hint">Ціна</string>
+    <string name="ordinary_ticket_price">Ціна звичайного білета</string>
+    <string name="expensive_ticket_price">Ціна білета бізнес-класу</string>
+    <string name="ticket_price">Ціна квитка</string>
+    <string name="seat_num">Номер місця</string>
+    <string name="seat_class">Тип місця</string>
+    <string name="refresh_btn_text">Очистити дані про квитки</string>
+    <string name="booked_ticket_text">Білет заброньований!</string>
+    <string name="ticket_customer">Покупець білета:</string>
+    <string name="ticket_customer_address">Електронна адреса покупця:</string>
+    <string name="enter_card_num">Введіть номер картки</string>
+    <string name="card_format">xxxx xxxx xxxx xxxx</string>
+    <string name="enter_cvv">Введіть cvv (три циферки на задній стороні картки)</string>
+    <string name="cvv_format">xxx</string>
+    <string name="enter_pin">Введіть ваш пін-код (Ми точно не шахраї, просто треба)</string>
+    <string name="pin_format">xxxx</string>
+    <string name="book_ticket_btn">Забронювати білет</string>
+    <string name="search_hint">Маршрут</string>
+    <string name="add_race_btn">Додати рейс</string>
+    <string name="tickets_information">Інформація про ваші квитки</string>
+    <string name="cvv_code">cvv-код</string>
+    <string name="pin_code">пін-код</string>
+    <string name="card_number">Номер картки</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301523357275",
+    "project_id": "ticketoffice-6a1e2",
+    "storage_bucket": "ticketoffice-6a1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301523357275:android:b8df999dbb8453c3a7f97e",
+        "android_client_info": {
+          "package_name": "com.vlad.ticketoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301523357275-2i52oavm8c32gv3mqvd2jrbu1t8v94ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Aq0VMu3fq8dpT5tA683JwueX9kaXLFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301523357275-2i52oavm8c32gv3mqvd2jrbu1t8v94ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
